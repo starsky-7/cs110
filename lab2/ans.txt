@@ -1,0 +1,15 @@
+1. 在启动gdb时，可以通过以下方式传递命令行参数：
+	gdb --args ./your_program arg1 arg2 arg3
+   在gdb中运行程序时传递参数：
+	(gdb) r arg1 arg2 arg3
+2. 可以使用条件断点，例如当变量 x 等于 5 时触发断点：
+	(gdb) break filename.c:line_number if x == 5
+   或者对已存在的断点添加条件:
+	(gdb) condition breakpoint_number x == 5
+3. next
+4. step
+5. c  (continue)
+6. p variable or expression
+7. display variable
+8. info locals
+9. q

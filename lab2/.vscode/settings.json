@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/kevin/CS110/lab2",
+            "binaryPath": "/home/kevin/CS110/lab2/lab2",
+            "binaryArgs": []
+        }
+    ]
+}

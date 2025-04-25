@@ -1,0 +1,12 @@
+1. .data: stores subsequent items in the static segment, which is a region of memory reserved for global variables, constants, and other data that needs to persist throughout the program’s execution.
+.text: stores subsequent instructions in the text segment of memory. The text segment is where the executable code (instructions) of the program is stored.
+.word: stores listed values as unaligned 32-bit words in memory, which means the data may not be aligned to the memory boundaries typically expected for efficient access.
+2. la: combination of lui(for upper 16 address) and addi(for lower 16 address)
+   mv: add rd rs x0
+   j: j or jal
+3. 34 the ninth fibonacci number
+4. 0x10000000
+
+
+exe2.1:
+1. 

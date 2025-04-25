@@ -1,0 +1,4 @@
+1. "Usage of unset register t0"
+    "Setting of a saved register (s0) which has not been saved!", s0 s1均是未事先保存就直接改变
+    同2,且没有在进入helper前保存t0
+    

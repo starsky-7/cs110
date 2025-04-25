@@ -1,0 +1,9 @@
+[submodule "proj1-2-starsky-7"]
+	path = proj1-2-starsky-7
+	url = https://github.com/cs110-25s/proj1-2-starsky-7.git
+[submodule "hw2-starsky-7"]
+	path = hw2-starsky-7
+	url = https://github.com/cs110-25s/hw2-starsky-7.git
+[submodule "hw3-starsky-7"]
+	path = hw3-starsky-7
+	url = https://github.com/cs110-25s/hw3-starsky-7.git
